@@ -7,4 +7,4 @@ Full Stack Developer con formacion como Diseñador Web. Experiencia trabajando e
 
 
 ## Tecnologiás
-### HTML, CSS, JavaScritp, React, Redux, Node.js, Express, Sequelize
+### HTML, CSS, JavaScritp, React, Redux, Node.js, Express, Sequelize, Scrum
