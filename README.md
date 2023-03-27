@@ -7,4 +7,4 @@ Full Stack Developer con formacion como Diseñador Web. Experiencia trabajando e
 
 
 ## Tecnologiás
-![React.js](https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/React.svg/800px-React.svg.png)
+### ![React.js](https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/React.svg/800px-React.svg.png)
