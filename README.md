@@ -19,3 +19,4 @@ Me encanta crear y encontrar soluciones.
 - **Sequelize**
 - **GIT**
 
+Claramente incluyendo **HTML** y **CSS**
