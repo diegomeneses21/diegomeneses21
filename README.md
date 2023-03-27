@@ -20,3 +20,6 @@ Me encanta crear y encontrar soluciones.
 - **GIT**
 
 Claramente incluyendo **HTML** y **CSS**
+
+### No dudes en contactarme! 
+Juntos podemos realizar un gran proyecto que cambie la vida de miles de personas
